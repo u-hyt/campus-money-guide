@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://u-hyt.github.io/campus-money-guide/sitemap.xml
+
